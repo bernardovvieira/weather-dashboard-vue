@@ -27,17 +27,14 @@ Developed by: **Bernardo Vivian Vieira**
 
 ### 📁 Installation
 
-1. Unzip the project folder:
-   - Example: `weather-dashboard.zip`
-   - Extract it to your preferred location.
-
-2. Navigate into the extracted folder:
+1. Clone the repository:
 
 ```bash
-cd weather-dashboard
+git clone https://github.com/bernardovvieira/weather-dashboard-vue
+cd weather-dashboard-vue
 ```
 
-3. Install all project dependencies:
+2. Install all project dependencies:
 ```bash
 npm install
 ```
